@@ -107,7 +107,7 @@ body {
 @media (max-width: 420px) {
     .header-banner img {
         height: auto;
-        width: 40rem;
+        width: 35rem;
     }
     .main-contain p {
         font-size: 2-2rem;
