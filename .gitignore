@@ -1,0 +1,52 @@
+**/.vscode
+.vscode
+.vscode/*
+.vscode/
+*bck/*
+*bck/
+*bck
+JQuery/chosen
+**/_env310
+**/_env310/*
+**/*cpython*
+**/*cpython*/*
+**/**node_modules/*
+**/**node_modules/*
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VirtualEnv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+**/.Python
+**/pyvenv.cfg
+**/.venv
+**/_venv
+**/_venv/
+**/_venv/*
+**/_venv*/
+**/_venv*/*
+**/pip-selfcheck.json
+**/__pycache__
+**/__pycache__/*
+**/*pycache*/*
+
+# Local History for Visual Studio Code
+**/.history/
+
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Windows shortcuts
+*.lnk
